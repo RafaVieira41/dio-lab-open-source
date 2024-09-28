@@ -1,1 +1,1 @@
-
+Atividades e grupos: DevClub, uma plataforma de estudos que visa formar programadores Full Stack. No curso são ministradas as tecnologias como HTML, CSS, Git e GitHub, JavaScript, Node.js, ReactJS, React Native, API Rest, entre outras. O objetivo do curso é capacitar pessoas em desenvolvedores completos, aonde os mesmos são capazes de criar sites, aplicativos móveis e entre outros projetos.
